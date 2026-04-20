@@ -9,7 +9,7 @@ Projeto criado para portfólio, demonstrando habilidades em back-end, controle d
 ## 📸 Preview
 
 ### 🔐 Tela de Login
-![Login](![Login](./img/login.png))
+![Login](./2026-04-20%20(2).png)
 
 ---
 
