@@ -9,7 +9,7 @@ Projeto criado para portfólio, demonstrando habilidades em back-end, controle d
 ## 📸 Preview
 
 ### 🔐 Tela de Login
-![Login](./imgs/login.png)
+![Login](C:\xampp\htdocs\sistema-login-php\img)
 
 ---
 
