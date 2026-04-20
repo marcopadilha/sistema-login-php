@@ -1,34 +1,39 @@
-# Sistema de Login em PHP
+# 🔐 Sistema de Login em PHP
 
-Sistema de autenticação desenvolvido em PHP com MySQL, focado em segurança,
-organização de código e visual profissional.
+Sistema de autenticação desenvolvido em **PHP com MySQL**, focado em **segurança**, **organização de código** e **visual moderno**.
 
-Projeto criado para fins de portfólio, demonstrando conhecimentos práticos
-em back-end, controle de sessões e integração com banco de dados.
+Projeto criado para portfólio, demonstrando habilidades em back-end, controle de sessões e integração com banco de dados.
+
+---
+
+## 📸 Preview
+
+### 🔐 Tela de Login
+![Login](./imgs/login.png)
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Cadastro de usuários
-- Login com autenticação segura
-- Senhas criptografadas com password_hash
-- Validação de email duplicado
-- Controle de sessão
-- Logout
-- Proteção de páginas restritas
-- Interface premium (preto e dourado)
+- Cadastro de usuários  
+- Login com autenticação segura  
+- Senhas criptografadas com `password_hash`  
+- Validação de email duplicado  
+- Controle de sessão  
+- Logout  
+- Proteção de páginas restritas  
+- Interface moderna (tema escuro + dourado)  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- PHP
-- MySQL
-- HTML5
-- CSS3
-- Sessões PHP
-- Git & GitHub
+- PHP  
+- MySQL  
+- HTML5  
+- CSS3  
+- Sessões PHP  
+- Git & GitHub  
 
 ---
 
